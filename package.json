@@ -1,0 +1,14 @@
+{
+  "name": "apify-mcp-connector-fixture",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Non-deployable fixture with intentionally old dependency versions for OSV triage demos",
+  "scripts": {
+    "start": "node -e \"throw new Error('Fixture only: do not run')\""
+  },
+  "dependencies": {
+    "axios": "0.21.1",
+    "lodash": "4.17.20",
+    "minimist": "1.2.5"
+  }
+}
