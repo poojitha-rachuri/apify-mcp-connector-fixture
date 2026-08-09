@@ -1,6 +1,7 @@
 # Link-audit fixture
 
 This file exists to exercise a failure-aware documentation audit through an Apify GitHub MCP connector.
+Production evidence pins this file to an immutable commit before the Actor reads it.
 
 - Reachable project page: <https://apify.com/>
 - Reachable repository: <https://github.com/poojitha-rachuri/apify-mcp-connector-fixture>
